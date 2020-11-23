@@ -1,0 +1,39 @@
+name: scrape
+
+on:
+  push:
+    branches:
+      - main
+  schedule:
+    - cron: "0 4 * * *"
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v1
+
+      - name: Setup Python
+        uses: actions/setup-python@v1
+        with:
+          python-version: "3.8"
+
+      - name: Install Python dependencies
+        run: python -m pip install -r requirements.txt
+
+      - name: Scrape
+        run: python ih_interviews.py > feed.xml
+        env:
+          APP_ID: ${{ secrets.APP_ID }}
+          API_KEY: ${{ secrets.API_KEY }}
+
+      - name: Save to Git
+        uses: EndBug/add-and-commit@v4
+        with:
+          add: feed.xml
+          author_name: "scraper"
+          author_email: "scraper@honzajavorek.cz"
+          message: "update feed 📥"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
