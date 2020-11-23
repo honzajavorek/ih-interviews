@@ -14,8 +14,10 @@ if __name__ == '__main__':
     fg = FeedGenerator()
     fg.title('IH Interviews')
     fg.id('ih-interviews-20201123-205642')
+    pubs = []
     for article in articles:
         pub = datetime.fromtimestamp(article['publishedAt'] / 1000).replace(tzinfo=pytz.timezone('UTC'))
+        pubs.append(pub)
         fe = fg.add_entry()
         fe.id(article['interviewId'])
         fe.published(pub)
@@ -23,4 +25,5 @@ if __name__ == '__main__':
         fe.updated(pub)
         fe.title(article['title'])
         fe.link(href=f"https://www.indiehackers.com/interview/{article['interviewId']}")
+    fg.updated(max(pubs))
     print(fg.atom_str(pretty=True).decode())
