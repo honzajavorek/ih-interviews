@@ -19,7 +19,7 @@ if __name__ == '__main__':
         fe = fg.add_entry()
         fe.id(article['interviewId'])
         fe.published(pub)
-        fe.pubdate(pub)
+        fe.pubDate(pub)
         fe.updated(pub)
         fe.title(article['title'])
         fe.link(href=f"https://www.indiehackers.com/interview/{article['interviewId']}")
