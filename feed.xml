@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-11-18T15:34:36.632000+00:00</updated>
+  <updated>2020-11-25T15:53:21.119000+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>14472961ef</id>
-    <title>How I Started a Business While Starting a New Family</title>
-    <updated>2020-07-15T15:04:57.876000+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/14472961ef" rel="alternate"/>
-    <published>2020-07-15T15:04:57.876000+00:00</published>
-  </entry>
   <entry>
     <id>6ebf2f60b1</id>
     <title>Growing a Subscription Newsletter by Teaching Others to Do the Same</title>
@@ -143,6 +136,13 @@
     <updated>2020-11-18T15:34:36.632000+00:00</updated>
     <link href="https://www.indiehackers.com/interview/95ebf25dc2" rel="alternate"/>
     <published>2020-11-18T15:34:36.632000+00:00</published>
+  </entry>
+  <entry>
+    <id>22027589ad</id>
+    <title>How a COVID-19 Lockdown Inspired Me to Start My Business, and Grow It </title>
+    <updated>2020-11-25T15:53:21.119000+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/22027589ad" rel="alternate"/>
+    <published>2020-11-25T15:53:21.119000+00:00</published>
   </entry>
 </feed>
 
