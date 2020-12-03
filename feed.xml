@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-11-25T15:53:00+00:00</updated>
+  <updated>2020-12-02T15:37:41.851000+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>6ebf2f60b1</id>
-    <title>Growing a Subscription Newsletter by Teaching Others to Do the Same</title>
-    <updated>2020-07-22T14:57:00+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/6ebf2f60b1" rel="alternate"/>
-    <published>2020-07-22T14:57:00+00:00</published>
-  </entry>
   <entry>
     <id>eb5544135c</id>
     <title>How I Keep My Side Project Manageable And Profitable</title>
@@ -143,6 +136,13 @@
     <updated>2020-11-25T15:53:00+00:00</updated>
     <link href="https://www.indiehackers.com/interview/22027589ad" rel="alternate"/>
     <published>2020-11-25T15:53:00+00:00</published>
+  </entry>
+  <entry>
+    <id>2f14778400</id>
+    <title>How I Turned My Freelance Frustrations into a $4k MRR App</title>
+    <updated>2020-12-02T15:37:41.851000+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/2f14778400" rel="alternate"/>
+    <published>2020-12-02T15:37:41.851000+00:00</published>
   </entry>
 </feed>
 
