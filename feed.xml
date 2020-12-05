@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-12-02T15:37:41.851000+00:00</updated>
+  <updated>2020-12-02T15:37:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
   <entry>
     <id>eb5544135c</id>
@@ -140,9 +140,9 @@
   <entry>
     <id>2f14778400</id>
     <title>How I Turned My Freelance Frustrations into a $4k MRR App</title>
-    <updated>2020-12-02T15:37:41.851000+00:00</updated>
+    <updated>2020-12-02T15:37:00+00:00</updated>
     <link href="https://www.indiehackers.com/interview/2f14778400" rel="alternate"/>
-    <published>2020-12-02T15:37:41.851000+00:00</published>
+    <published>2020-12-02T15:37:00+00:00</published>
   </entry>
 </feed>
 
