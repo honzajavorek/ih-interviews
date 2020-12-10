@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-12-02T15:37:00+00:00</updated>
+  <updated>2020-12-09T16:36:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>eb5544135c</id>
-    <title>How I Keep My Side Project Manageable And Profitable</title>
-    <updated>2020-07-29T14:53:00+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/eb5544135c" rel="alternate"/>
-    <published>2020-07-29T14:53:00+00:00</published>
-  </entry>
   <entry>
     <id>d10b0dd604</id>
     <title>How We Found Profitability In An Ultra-Specific Niche</title>
@@ -143,6 +136,13 @@
     <updated>2020-12-02T15:37:00+00:00</updated>
     <link href="https://www.indiehackers.com/interview/2f14778400" rel="alternate"/>
     <published>2020-12-02T15:37:00+00:00</published>
+  </entry>
+  <entry>
+    <id>a60bf20fdc</id>
+    <title>How I Leveraged COVID-19 to Reach $50k MRR</title>
+    <updated>2020-12-09T16:36:00+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/a60bf20fdc" rel="alternate"/>
+    <published>2020-12-09T16:36:00+00:00</published>
   </entry>
 </feed>
 
