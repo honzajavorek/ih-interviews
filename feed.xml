@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-12-16T17:23:28.890000+00:00</updated>
+  <updated>2020-12-30T16:42:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>daa3b95374</id>
-    <title>How Building Better AI Makes My Marketing Easier</title>
-    <updated>2020-08-12T15:51:00+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/daa3b95374" rel="alternate"/>
-    <published>2020-08-12T15:51:00+00:00</published>
-  </entry>
   <entry>
     <id>1cc48d1094</id>
     <title>The Solo Founder Growing a Social Media Empire</title>
@@ -143,6 +136,13 @@
     <updated>2020-12-16T17:23:28.890000+00:00</updated>
     <link href="https://www.indiehackers.com/interview/7698e1b267" rel="alternate"/>
     <published>2020-12-16T17:23:28.890000+00:00</published>
+  </entry>
+  <entry>
+    <id>5a4f6c56fd</id>
+    <title>How I Went from Near-Bankruptcy to Running a $88k MRR Business</title>
+    <updated>2020-12-30T16:42:00+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/5a4f6c56fd" rel="alternate"/>
+    <published>2020-12-30T16:42:00+00:00</published>
   </entry>
 </feed>
 
