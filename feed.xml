@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2020-12-30T16:42:00+00:00</updated>
+  <updated>2021-01-06T15:17:00+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>1cc48d1094</id>
-    <title>The Solo Founder Growing a Social Media Empire</title>
-    <updated>2020-08-19T21:06:00+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/1cc48d1094" rel="alternate"/>
-    <published>2020-08-19T21:06:00+00:00</published>
-  </entry>
   <entry>
     <id>c43f9efdc8</id>
     <title>Building a Hobby Project That Pays for Itself</title>
@@ -143,6 +136,13 @@
     <updated>2020-12-30T16:42:00+00:00</updated>
     <link href="https://www.indiehackers.com/interview/5a4f6c56fd" rel="alternate"/>
     <published>2020-12-30T16:42:00+00:00</published>
+  </entry>
+  <entry>
+    <id>75b524b853</id>
+    <title>How I Went from Making Websites for Fun to Ramen Profitability</title>
+    <updated>2021-01-06T15:17:00+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/75b524b853" rel="alternate"/>
+    <published>2021-01-06T15:17:00+00:00</published>
   </entry>
 </feed>
 
