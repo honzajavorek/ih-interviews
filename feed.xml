@@ -2,15 +2,8 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>ih-interviews-20201123-205642</id>
   <title>IH Interviews</title>
-  <updated>2021-01-06T15:17:00+00:00</updated>
+  <updated>2021-01-15T18:28:20.992000+00:00</updated>
   <generator uri="https://lkiesow.github.io/python-feedgen" version="0.9.0">python-feedgen</generator>
-  <entry>
-    <id>c43f9efdc8</id>
-    <title>Building a Hobby Project That Pays for Itself</title>
-    <updated>2020-08-26T19:07:00+00:00</updated>
-    <link href="https://www.indiehackers.com/interview/c43f9efdc8" rel="alternate"/>
-    <published>2020-08-26T19:07:00+00:00</published>
-  </entry>
   <entry>
     <id>ca2526bf01</id>
     <title>Why Expanding My Products Helped Me Reach $40k MRR</title>
@@ -143,6 +136,13 @@
     <updated>2021-01-06T15:17:00+00:00</updated>
     <link href="https://www.indiehackers.com/interview/75b524b853" rel="alternate"/>
     <published>2021-01-06T15:17:00+00:00</published>
+  </entry>
+  <entry>
+    <id>d526999b35</id>
+    <title>How I Launched and Grew My Startup by 500% During the COVID Crisis</title>
+    <updated>2021-01-15T18:28:20.992000+00:00</updated>
+    <link href="https://www.indiehackers.com/interview/d526999b35" rel="alternate"/>
+    <published>2021-01-15T18:28:20.992000+00:00</published>
   </entry>
 </feed>
 
